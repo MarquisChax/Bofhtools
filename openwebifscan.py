@@ -2,7 +2,7 @@ import shodan
 import requests
 
 
-SHODAN_API = 'oUw4A8QKqTfXWt09IyEfaxxPOvBE90Vb'
+SHODAN_API = ''
 api = shodan.Shodan(SHODAN_API)
 
 list200 = []
